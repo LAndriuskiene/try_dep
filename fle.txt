@@ -1,3 +1,3 @@
 
-Hello world
-Labas pasauli
+New changes in this file would override previous ones.
+Darom pakeitimus faile.
